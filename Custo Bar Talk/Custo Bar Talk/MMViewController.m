@@ -12,7 +12,9 @@
 @interface MMViewController ()
 {
     MMUITextField *awesomeTextStuff;
-    UIImage *sickBackgroundStuff;
+    
+    //Sketchy test code...
+    //UIImage *sickBackgroundStuff;
 }
 @end
 
@@ -23,14 +25,14 @@
     [super viewDidLoad];
     //background color magenta
     //[[self view] setBackgroundColor:[UIColor magentaColor]];
-    //
+    
     //sketchy background image using pattern
     [[self view] setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"Pattern.jpeg"]]];
 
     //some code to reference for below
     //awesomeTextStuff = [[MMUITextField alloc] initWithFrame:CGRectMake(0, 200, 300, 50)];
     //[awesomeTextStuff setDelegate:self];
-    //
+    
     awesomeTextStuff=[[MMUITextField alloc] initWithFrame:CGRectMake(0, 200, 300, 50)];
     [awesomeTextStuff setDelegate:self];
     [[self view] addSubview:awesomeTextStuff];
