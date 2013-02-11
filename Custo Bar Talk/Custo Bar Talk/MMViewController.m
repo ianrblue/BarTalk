@@ -27,7 +27,7 @@
     //[[self view] setBackgroundColor:[UIColor magentaColor]];
     
     //sketchy background image using pattern
-    [[self view] setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"Pattern.jpeg"]]];
+    [[self view] setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"BeerHighRes.png"]]];
 
     //some code to reference for below
     //awesomeTextStuff = [[MMUITextField alloc] initWithFrame:CGRectMake(0, 200, 300, 50)];

@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2507BBB616C35CA3002EE6EF /* BeerHighRes.png in Resources */ = {isa = PBXBuildFile; fileRef = 2507BBB516C35CA3002EE6EF /* BeerHighRes.png */; };
-		2507BBBA16C370A8002EE6EF /* Pattern.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2507BBB916C370A8002EE6EF /* Pattern.jpeg */; };
 		25E9256D16C326A900442262 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25E9256C16C326A900442262 /* UIKit.framework */; };
 		25E9256F16C326A900442262 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25E9256E16C326A900442262 /* Foundation.framework */; };
 		25E9257116C326A900442262 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25E9257016C326A900442262 /* CoreGraphics.framework */; };
@@ -26,7 +25,6 @@
 
 /* Begin PBXFileReference section */
 		2507BBB516C35CA3002EE6EF /* BeerHighRes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeerHighRes.png; sourceTree = "<group>"; };
-		2507BBB916C370A8002EE6EF /* Pattern.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pattern.jpeg; path = ../../../Desktop/Pattern.jpeg; sourceTree = "<group>"; };
 		25E9256916C326A900442262 /* Custo Bar Talk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Custo Bar Talk.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25E9256C16C326A900442262 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		25E9256E16C326A900442262 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -66,7 +64,6 @@
 			isa = PBXGroup;
 			children = (
 				2507BBB516C35CA3002EE6EF /* BeerHighRes.png */,
-				2507BBB916C370A8002EE6EF /* Pattern.jpeg */,
 				25E9257216C326A900442262 /* Custo Bar Talk */,
 				25E9256B16C326A900442262 /* Frameworks */,
 				25E9256A16C326A900442262 /* Products */,
@@ -180,7 +177,6 @@
 				25E9258916C326A900442262 /* MMViewController_iPhone.xib in Resources */,
 				25E9258C16C326A900442262 /* MMViewController_iPad.xib in Resources */,
 				2507BBB616C35CA3002EE6EF /* BeerHighRes.png in Resources */,
-				2507BBBA16C370A8002EE6EF /* Pattern.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
